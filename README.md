@@ -1,6 +1,6 @@
 # Computer-Graphics-Lab
 Heya! I will be uploading all my codes of Computer Graphics Lab here. Hoping for the best!!!
-**INDEX**
+<br>**INDEX**<br/>
 Lab 1 Name in Raster Grid
 Lab 2 Naive Line Drawing
 Lab 3 Digital Differential Analyzer Algorithm Line
